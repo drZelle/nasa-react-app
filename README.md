@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-to run the project: in C:\Users\yadvi\github\nasa-react-app>
+to run the project: in C:\github\nasa-react-app>
 npm run dev
 Currently, two official plugins are available:
 
