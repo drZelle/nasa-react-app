@@ -5,7 +5,7 @@ export default function Footer(props) {
         <footer>
             <div className="bgGradient"></div>
             <div>
-                <h1>APOD PROJECT</h1>
+                <h1>1st Dr.Zelle PROJECT - NASA Picture of the day using API</h1>
                 <h2>{data?.title}</h2>
             </div>
             <button onClick={handleToggleModal}>
